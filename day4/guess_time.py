@@ -13,3 +13,4 @@ end = time.time()
 et = end - start
 print(f'실제시간 : {et}초')
 print(f'차이 : {abs(et-20)}') #절대값 처리
+
