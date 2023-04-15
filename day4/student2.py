@@ -15,3 +15,7 @@ s1.learn()
 s2 = Student("이둘", 2)
 print(f'{s2.name} 학생은 {s2.grade}학년 입니다.')
 s2.learn()
+
+choi = Student("최영은", 3)
+print(f'{choi.name} 학생은 {choi.grade}학년 입니다.')
+choi.learn()
